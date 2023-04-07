@@ -1,0 +1,8 @@
+{
+  "name": "react-native-pedro-template",
+  "version": "0.0.5",
+  "description": "React Native Pedro Template",
+  "repository": "git@github.com:PedroTBarreira/rn-template-app.git",
+  "author": "Pedro Barreira <pbarreirat@outlook.com >",
+  "license": "MIT"
+}
